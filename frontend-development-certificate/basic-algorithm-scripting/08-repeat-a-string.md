@@ -30,6 +30,6 @@ repeatStringNumTimes("abc", 3);
 
 # Explanation
 
-1. Check if num is negative (meaning greater than 0)
-2. If the num is not negative, repeat the string num times
+1. Check if `num` is negative (meaning greater than 0)
+2. If the num is not negative, repeat the `str` `num` times
 3. Using a for loop to determine the number of times
