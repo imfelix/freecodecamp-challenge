@@ -29,7 +29,6 @@ truncateString("A-tisket a-tasket A green and yellow basket", 11);
 2. If `str.length` is greater, we truncate the text to length of `num` given
 3. After truncating the text, you add `...` at the end 
 4. **But** the tricky part here is that `...` will add to the length of the string.
-5. Here, we used a ternary operator to decide if `num` is greater than 3 (because of `...`):
-
-    5.1 If true, we take out 3 more charaters from `str` to add `...`
-    5.2 If false, we return the `num` of `str`
+5. Here, we used a ternary operator to decide if `num` is greater than 3 (because of `...`)
+6. If true, we take out 3 more charaters from `str` to add `...`
+7. If false, we return the `num` of `str`
