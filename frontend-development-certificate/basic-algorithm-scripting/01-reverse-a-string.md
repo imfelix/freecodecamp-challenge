@@ -7,6 +7,7 @@ function reverseString(str) {
 
 reverseString('hello');
 ```
+
 # Solution Script
 
 ```javascript
