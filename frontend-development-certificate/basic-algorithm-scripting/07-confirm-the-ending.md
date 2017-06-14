@@ -14,14 +14,17 @@ confirmEnding("Bastian", "n");
 
 ```javascript
 function confirmEnding(str, target) {
-  // Since substr() was given a negative number
-  // It will only take the last number of charaters
-  // Then check if it equals target
   return (str.substr(-target.length) === target);
 }
 
 confirmEnding("Bastian", "n");
 ```
+
+# Explanation
+
+1. Since substr() was given a negative number
+2. It will only take the last number of charaters
+3. Then check if it equals target
 
 # Useful Links
 
