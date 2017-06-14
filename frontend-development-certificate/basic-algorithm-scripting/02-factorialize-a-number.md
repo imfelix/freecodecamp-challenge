@@ -12,6 +12,7 @@ factorialize(5);
 
 ```javascript
 function factorialize(num) {
+  // Need to end infinite callback if num is 0
   if (num === 0) {
     return 1;
   }
