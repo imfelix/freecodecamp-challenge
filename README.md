@@ -1,4 +1,4 @@
-# freeCodeCamp Challenges
+# FreeCodeCamp Challenges
 
 **Status: work in-progress**
 
