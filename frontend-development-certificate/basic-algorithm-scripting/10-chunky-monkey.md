@@ -54,5 +54,5 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 
 ### Useful Links
 
-* `String.prototype.push()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push?v=example)
-* `String.prototype.slice()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice?v=example)
+* `Array.prototype.push()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push?v=example)
+* `Array.prototype.slice()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice?v=example)
