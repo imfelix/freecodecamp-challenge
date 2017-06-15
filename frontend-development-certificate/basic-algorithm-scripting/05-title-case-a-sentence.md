@@ -25,6 +25,6 @@ titleCase("I'm a little tea pot");
 # Explanation
 
 1. Take the first character of the word
-2. Convert the character to uppercase
+2. Convert the character to upper case
 3. Concatenate it with the rest of the word
-4. Also, convert the rest of the words to lowercase.
+4. Also, convert the rest of the words to lower case.
