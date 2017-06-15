@@ -1,8 +1,10 @@
 # Reverse a String
 
-### Problem
+### Problem Description
 
 Reverse the provided string.
+
+### Problem Script
 
 ```javascript
 function reverseString(str) {
