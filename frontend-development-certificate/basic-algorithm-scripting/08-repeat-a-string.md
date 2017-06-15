@@ -13,7 +13,6 @@ repeatStringNumTimes("abc", 3);
 
 ```javascript
 function repeatStringNumTimes(str, num) {
-  // repeat after me
   var result = "";
   if (num < 0) {
     return result;
