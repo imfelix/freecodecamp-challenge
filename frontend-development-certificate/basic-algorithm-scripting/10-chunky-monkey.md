@@ -50,7 +50,7 @@ chunkArrayInGroups(["a", "b", "c", "d"], 2);
 6. After the `arr` array is sliced, we use the `push()` method to add the sliced array into our `resultArray`
 7. Finally, return the `resultArray`
 
-# Useful Links
+### Useful Links
 
 * `String.prototype.push()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push?v=example)
 * `String.prototype.slice()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice?v=example)
