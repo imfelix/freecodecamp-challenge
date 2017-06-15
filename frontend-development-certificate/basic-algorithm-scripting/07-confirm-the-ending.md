@@ -28,4 +28,4 @@ confirmEnding("Bastian", "n");
 
 # Useful Links
 
-* `str.substr()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
+* `String.prototype.substr()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr)
