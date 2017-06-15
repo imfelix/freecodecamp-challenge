@@ -1,10 +1,10 @@
 # Reverse a String
 
-#### Problem Description
+### Problem Description
 
 Reverse the provided string.
 
-#### Problem Script
+### Problem Script
 
 ```javascript
 function reverseString(str) {
@@ -14,14 +14,14 @@ function reverseString(str) {
 reverseString('hello');
 ```
 
-#### Expected Outcome
+### Expected Outcome
 
 * `reverseString("hello")` should return a `string`.
 * `reverseString("hello")` should become `"olleh"`.
 * `reverseString("Howdy")` should become `"ydwoH"`.
 * `reverseString("Greetings from Earth")` should return `"htraE morf sgniteerG"`.
 
-#### Solution Script
+### Solution Script
 
 ```javascript
 function reverseString(str) {
@@ -31,14 +31,14 @@ function reverseString(str) {
 reverseString('hello');
 ```
 
-#### Solution Explanation
+### Solution Explanation
 
 1. Split the string argument given in the function with `split()` method
 2. `split('')` will split each element within the string and return an array of strings
 3. Then, reverse the split array of strings with `reverse()` method
 4. Finally, join the array of strings with the method `join()`
 
-#### Useful Links
+### Useful Links
 
 * `String.prototype.split()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 * `Array.prototype.reverse()` - [MDN link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse?v=example)
